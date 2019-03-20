@@ -1,0 +1,6 @@
+
+.important {
+    background-color: white;
+    padding: 1rem;
+    color: red !important;
+}
